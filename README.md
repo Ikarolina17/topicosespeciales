@@ -20,7 +20,7 @@ Abrir el navegador y escribir www.universidad.edu/inscripciones
 
 Ingresar tu nombre de usuario y contraseña
 
-Si olvidas tu contrasena, haz click en “Recuperar contrasena” y sigues los pasos.
+Si olvidas tu contraseña, haz click en “Recuperar contraseña” y sigues los pasos.
 
 Nota: Si el sistema no carga correctamente, refresca la pagina varias veces o intenta en otro navegador.
 
