@@ -4,7 +4,7 @@ Tarea de tópicos especiales de ISI
 Manual de Usuario: Sistema de Inscripsiones Semestrales
 1. Introduccion
 
-Bienvenido al sistema de inscripsiones semestrales. Este manual te ayudara a navegar por el sistema, registrar tus materias y completar tu inscripsion sin problemas. Por favor, leia todo cuidadosamente antes de empezar.
+Bienvenido al sistema de inscripciones semestrales. Este manual te ayudara a navegar por el sistema, registrar tus materias y completar tu inscripciones sin problemas. Por favor, lea todo cuidadosamente antes de empezar.
 
 2. Requisitos del sistema
 
