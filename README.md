@@ -4,13 +4,13 @@ Tarea de tópicos especiales de ISI
 Manual de Usuario: Sistema de Inscripsiones Semestrales
 1. Introduccion
 
-Bienvenido al sistema de inscripsiones semestrales. Este manual te ayudara a navegar por el sistema, registrar tus materias y completar tu inscripsion sin problemas. Por favor, leia todo cuidadosamente antes de empezar.
+Bienvenido al sistema de inscripciones semestrales. Este manual te ayudara a navegar por el sistema, registrar tus materias y completar tu inscripciones sin problemas. Por favor, lea todo cuidadosamente antes de empezar.
 
 2. Requisitos del sistema
 
 Computadora con internet.
 
-Navegador actualisado (Chrome, Firefox o Edge).
+Navegador actualizado (Chrome, Firefox o Edge).
 
 Cuenta universitaria activa.
 
@@ -20,7 +20,7 @@ Abrir el navegador y escribir www.universidad.edu/inscripciones
 
 Ingresar tu nombre de usuario y contraseña
 
-Si olvidas tu contrasena, haz click en “Recuperar contrasena” y sigues los pasos.
+Si olvidas tu contraseña, haz click en “Recuperar contraseña” y sigues los pasos.
 
 Nota: Si el sistema no carga correctamente, refresca la pagina varias veces o intenta en otro navegador.
 
@@ -32,11 +32,11 @@ Selecciona la materia que deseas inscribirte y haz click en “Agregar al carrit
 
 Revisa que todas las materias seleccionadas estan correctas antes de confirmar.
 
-Advertencia: No cierres la ventana del navegador antes de completar la inscripsion o perderas los cambios.
+Advertencia: No cierres la ventana del navegador antes de completar la inscripción o perderas los cambios.
 
 5. Confirmacion y pago
 
-Una ves agregadas todas tus materias, ve a la seccion de “Confirmar inscripsion”.
+Una ves agregadas todas tus materias, ve a la seccion de “Confirmar inscripción”.
 
 Revisa que todos los datos esten correctos y haz click en “Pagar ahora”.
 
