@@ -10,7 +10,7 @@ Bienvenido al sistema de inscripciones semestrales. Este manual te ayudara a nav
 
 Computadora con internet.
 
-Navegador actualisado (Chrome, Firefox o Edge).
+Navegador actualizado (Chrome, Firefox o Edge).
 
 Cuenta universitaria activa.
 
