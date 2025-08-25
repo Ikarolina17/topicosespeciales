@@ -32,11 +32,11 @@ Selecciona la materia que deseas inscribirte y haz click en “Agregar al carrit
 
 Revisa que todas las materias seleccionadas estan correctas antes de confirmar.
 
-Advertencia: No cierres la ventana del navegador antes de completar la inscripsion o perderas los cambios.
+Advertencia: No cierres la ventana del navegador antes de completar la inscripción o perderas los cambios.
 
 5. Confirmacion y pago
 
-Una ves agregadas todas tus materias, ve a la seccion de “Confirmar inscripsion”.
+Una ves agregadas todas tus materias, ve a la seccion de “Confirmar inscripción”.
 
 Revisa que todos los datos esten correctos y haz click en “Pagar ahora”.
 
